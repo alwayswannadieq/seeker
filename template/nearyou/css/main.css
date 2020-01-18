@@ -46,14 +46,12 @@ img
 .button
 {
   background-color: Transparent;
-  background-image: url(https://sun9-34.userapi.com/c857428/v857428061/15480a/_zbU49dTVKA.jpg);
-  background-image: url(zbU49dTVKA.jpg);
   border-radius: 50%;
   background-size: 700px;
   border: 2px solid white;
   cursor: pointer;
   color: white;
-  font-size: 24px;
+  font-size: 20px;
   padding: 14px 40px;
   border-radius: 6px;
   width: 50%;
